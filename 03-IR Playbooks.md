@@ -13,10 +13,4 @@ https://atc-project.github.io/atc-react/#
 https://sansorg.egnyte.com/dl/3WmkpzL8Ir
 
 6) FlexibleIR:
-
-[https://flexibleir.com/](https://flexibleir.com/cyber-security-incident-response-playbook)
 https://playbooks.flexibleir.com/
-https://board.flexibleir.com/b/HSupIfZOYOjxCC15U/1
-
-
-7)  
